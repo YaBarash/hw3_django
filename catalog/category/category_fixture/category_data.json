@@ -1,0 +1,26 @@
+[
+  {
+    "model": "category.category",
+    "pk": 1,
+    "fields": {
+      "name": "Овощ",
+      "description": "Выращенные в теплице"
+    }
+  },
+  {
+    "model": "category.category",
+    "pk": 2,
+    "fields": {
+      "name": "Фрукт",
+      "description": "Выращенные в теплице"
+    }
+  },
+  {
+    "model": "category.category",
+    "pk": 3,
+    "fields": {
+      "name": "Ягода",
+      "description": null
+    }
+  }
+]
